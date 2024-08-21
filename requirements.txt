@@ -1,0 +1,7 @@
+langgraph
+langsmith
+langchain_community
+langchain_openai
+langchain_anthropic
+tavily-python
+pandas
